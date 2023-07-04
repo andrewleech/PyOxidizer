@@ -5108,6 +5108,7 @@ dependencies = [
  "log",
  "msi",
  "once_cell",
+ "regex",
  "simple-file-manifest",
  "tempfile",
  "tugger-common",
